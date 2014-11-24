@@ -2,7 +2,7 @@
 // David Buff
 //
 // Description:
-//      A simple count down timer using a slider.
+//     A simple count down timer using a slider.
 //
 
 import java.awt.*;
